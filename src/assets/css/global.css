@@ -1,0 +1,21 @@
+/* 全局样式 */
+html,body,#app{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    min-width: 1000px;
+}
+
+h1{
+    margin: 0px;
+    padding: 0px;
+}
+
+.el-menu{
+    border-right: 0 !important;
+}
+
+.iconfont{
+    margin-right: 10px;
+}

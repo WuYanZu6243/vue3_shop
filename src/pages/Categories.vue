@@ -1,11 +1,12 @@
 <template>
-  <!-- 页面路由渲染位置 -->
-  <router-view></router-view>
+    categories
 </template>
 
 <script lang="ts" setup>
+    import {ref,reactive} from 'vue'
+
 </script>
 
 <style lang="scss" scoped>
-</style>
 
+</style>
