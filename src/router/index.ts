@@ -19,6 +19,7 @@ const routes:RouteRecordRaw[] = [
         name:'home',
         path:'/home',
         component:()=>import('../pages/Home.vue'),
+        redirect:'/home/users',
         children:[
             // 用户路由
             {

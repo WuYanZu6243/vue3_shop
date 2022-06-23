@@ -91,13 +91,13 @@
 .login-container {
     width: 100%;
     height: 100%;
-    background: url("http://182.61.30.46:2406/uploads/upload_e2a5f235f53f3aded07d7eb1dae0fe42.png") no-repeat center / 100%;
+    background: url("http://182.61.30.46:2406/uploads/upload_262c8c3bc1faf14b8e377278c7f833f9.png") no-repeat center / 100%;
     display: flex;
     justify-content: center;
     align-items: center;
     // 登录框
     .login-box{
-        width: 440px;
+        width: 400px;
         background-color: #fff;
         border-radius: 10px;
         // 登录框头部
